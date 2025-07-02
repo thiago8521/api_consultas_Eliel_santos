@@ -37,3 +37,4 @@ A API ficará em `http://localhost:8080`.
 | DELETE | /appointments/:id | ✔️ | Cancelar consulta |
 
 Mensagens de erro seguem o formato do desafio.
+
